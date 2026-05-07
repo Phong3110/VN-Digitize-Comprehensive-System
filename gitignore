@@ -1,0 +1,20 @@
+# Python & Virtual Env
+__pycache__/
+venv/
+.env
+
+# AI Data & Models
+data/
+datasets/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# Logs
+logs/
+wandb/
+
+# Test data (images thường nặng, không commit)
+input_images/
+output_images/
