@@ -1,0 +1,5 @@
+E:/python_cuda_jupyter/miniconda/envs/paddleocr3/python.exe e:/project_cty_ocr/ocr_pipeline.py --input "pdf_image_only.pdf" --output "output" --dpi 200 --device gpu
+
+E:/python_cuda_jupyter/miniconda/envs/paddleocr35/python.exe e:/project_cty_ocr/ocr_pipeline_v4.py --input "pdf_image_only.pdf" --output "output"
+
+E:/python_cuda_jupyter/miniconda/envs/paddleocr35/python.exe e:/project_cty_ocr/ocr_pipeline_v5.py --input "pdf_image_only.pdf" --output "output"
